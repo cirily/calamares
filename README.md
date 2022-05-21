@@ -25,7 +25,7 @@ for end-users, but most of what we have is for distro developers.
 Clone Calamares from GitHub. The default branch is called *calamares*.
 
 ```
-git clone https://github.com/calamares/calamares.git
+git clone https://github.com/cirily/calamares.git
 ```
 
 Calamares is a KDE-Frameworks and Qt-based, C++17, CMake-built application.
