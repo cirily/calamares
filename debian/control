@@ -1,7 +1,7 @@
-Source: cutefish-calamares
+Source: pisces-calamares
 Section: utils
 Priority: optional
-Maintainer: Jonathan Carter <jcc@debian.org>
+Maintainer: Piscesys Packaging Team <support@piscesys.com>
 Build-Depends: cmake,
                cryptsetup <!nocheck>,
                debhelper-compat (= 13),
@@ -38,9 +38,9 @@ Build-Depends: cmake,
                qttools5-dev-tools
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
-Homepage: https://github.com/calamares/calamares
+Homepage: https://github.com/piscesys/calamares
 
-Package: cutefish-calamares
+Package: pisces-calamares
 Architecture: linux-any
 Depends: os-prober, ${misc:Depends}, ${shlibs:Depends}
 Recommends: btrfs-progs, squashfs-tools

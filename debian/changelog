@@ -1,5 +1,5 @@
-cutefish-calamares (0.5) unstable; urgency=medium
+pisces-calamares (0.9) misaka; urgency=medium
 
-  * Init
+  * Initial Release for Pisces.
 
- -- Jonathan Carter <jcc@debian.org>  Thu, 09 Sep 2021 11:07:34 +0200
+ -- Piscesys Packaging Team <support@piscesys.com> Sun, 10 Jul 2022 22:05:45 +0800
